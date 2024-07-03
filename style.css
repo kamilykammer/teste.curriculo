@@ -1,0 +1,102 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#idbody {
+  background-color: #f7a6d959;
+}
+
+#curriculo {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#iddiv {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 700px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#divpai {
+  display: column;
+  justify-content: space-around;
+}
+
+#div2 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#div3 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#div4 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#div5 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#div6 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#div7 {
+  background-color: #f7a6d959;
+  border: 1px solid #ff61dd;
+  padding: 20px;
+  width: 1000px;
+  height:200px;
+  text-align: column;
+  color: #ff61dd;
+}
+
+#fotoPerfil{
+  width: 300px;
+  height:300px;
+  display: flex;
+  flex-direction: flex-start;
+}
+
+#Taco{
+  display: flex;
+}
