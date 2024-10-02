@@ -1,7 +1,7 @@
 # CURRÍCULO
 
  * ##  Sobre o usuario
-   Olá, meu nome é 
+   Olá, meu nome é Kamily, tenho 16 anos e curso o Ensino Medio Tecnico em Desenvolvimento de Sistemas.
   
  * ## Projeto 
  
