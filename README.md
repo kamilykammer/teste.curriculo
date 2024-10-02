@@ -1,6 +1,6 @@
 # CURRÍCULO
 
-## Sobre o usuario
+## * Sobre o usuario
    Olá, meu nome é 
   
  ## Projeto 
