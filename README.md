@@ -1,4 +1,5 @@
  # Curriculo 
- Este projeto foi criado com base nas informações pessoais do usuario. As informações foram coletadas e anotadas.
+ Este projeto foi criado com base nas informações pessoais do usuario. As informações seguintes foram coletadas e anotadas: 
+ 
  
 
