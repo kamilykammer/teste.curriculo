@@ -2,6 +2,8 @@
 
  * ##  Sobre o usuario
    Olá, meu nome é Kamily, tenho 16 anos e curso o Ensino Medio Tecnico em Desenvolvimento de Sistemas.
+   Criei este projeto nas aulas práticas no Laboratório da escola, nas aulas de Programação Front-End, com o
+   professor Samuel.
   
  * ## Projeto 
  
