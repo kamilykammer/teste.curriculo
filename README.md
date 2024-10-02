@@ -1,7 +1,7 @@
 # Sobre o usuario
    Olá, meu nome é 
   
- # Curriculo 
+ ## Curriculo 
  
    Este projeto foi criado com base nas informações pessoais do usuario. As informações seguintes foram coletadas e anotadas: 
  Nome, idade, nacionalidade, estado civil, telefone, e-mail, endereço, objetivo profissional, formação academica, 
